@@ -1,0 +1,16 @@
+/* src/pages/Contact.css */
+.contact {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      
+      .contact ul {
+        list-style: none;
+        padding: 0;
+      }
+      
+      .contact li {
+        margin-bottom: 10px;
+      }
+      
