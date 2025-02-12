@@ -1,5 +1,13 @@
 {
   "dependencies": {
     "web-vitals": "^4.2.4"
-  }
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+
+  },
+  "homepage": "https://drabadario.github.io/rileydamasco.github.io"
+
+  
 }

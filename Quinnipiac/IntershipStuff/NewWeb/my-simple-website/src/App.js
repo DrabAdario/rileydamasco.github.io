@@ -11,7 +11,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/rileydamasco.github.io">
       <div className="App">
         <Header />
         <main className="App-content">
